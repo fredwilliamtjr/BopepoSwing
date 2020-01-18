@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.jrimum:jrimum-texgit:javadoc:0.2.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jrimum/jrimum-texgit/0.2.0-SNAPSHOT/jrimum-texgit-0.2.0-20140202.133334-168-javadoc.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jrimum/jrimum-texgit/0.2.0-SNAPSHOT/jrimum-texgit-0.2.0-20140202.133334-168-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jrimum/jrimum-texgit/0.2.0-SNAPSHOT/jrimum-texgit-0.2.0-20140202.133334-168-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
